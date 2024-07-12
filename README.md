@@ -1,4 +1,4 @@
-# presto# Presto
+# Presto
 
 Welcome to Presto, the ultimate web application for creating and editing presentations. Presto is designed to be intuitive, user-friendly, and highly functional, making it easy to craft professional presentations.
 
